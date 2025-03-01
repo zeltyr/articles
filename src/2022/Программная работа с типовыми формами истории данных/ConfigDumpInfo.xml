@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Номенклатура" id="7ad0dbd8-7e1c-4661-adf2-ea8e8226a726" configVersion="c0fa4b1b88d3ef4c95bba6c09848450b00000000"/>
+		<Metadata name="Catalog.Номенклатура.Predefined" id="7ad0dbd8-7e1c-4661-adf2-ea8e8226a726.1c" configVersion="b3ffca956ded0d4f98778bd80fcf794d00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="6dda2e15-6eb2-48f2-8d41-c5f861853bed" configVersion="0d7a0c57013e0d4094cb450ffd6f72fa00000000"/>
+		<Metadata name="DataProcessor.СохранениеСтандартныхФормИсторииДанных" id="1f0f5d45-dcbe-42b9-9913-9f75010ba091" configVersion="5f0f940e21515b45a76ec50923a117b500000000"/>
+		<Metadata name="DataProcessor.СохранениеСтандартныхФормИсторииДанных.Form.Форма" id="b66d6060-9c42-493e-80d2-0473501dcf48" configVersion="f26ef04e7fa732479328383d890dbe2700000000"/>
+		<Metadata name="DataProcessor.СохранениеСтандартныхФормИсторииДанных.Form.Форма.Form" id="b66d6060-9c42-493e-80d2-0473501dcf48.0" configVersion="0108824fe3726340b1f544dbc1aa5f9600000000"/>
+		<Metadata name="InformationRegister.ЦеныНоменклатуры" id="0fff66ad-932c-4c88-988d-61cd510986bc" configVersion="57f31d72f8fd0643be8acb920f51e7c700000000">
+			<Metadata name="InformationRegister.ЦеныНоменклатуры.Dimension.Номенклатура" id="a15d4dc8-a053-4423-b899-29e1006c2636"/>
+			<Metadata name="InformationRegister.ЦеныНоменклатуры.Resource.Цена" id="b0f9db56-4658-46d7-ae0e-acf5cf7858fd"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи" id="e3ec8e02-d5bf-4ac1-bc65-46897ce45a18" configVersion="6ca1441c895b884eb953b4b5b7ac767b00000000"/>
+		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаЗаписи.Form" id="e3ec8e02-d5bf-4ac1-bc65-46897ce45a18.0" configVersion="0dd0230d7a64314497aa4ccc9193b76600000000"/>
+		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка" id="e3a508d1-f983-4300-a0da-463f2b9f7429" configVersion="bdab7a64973708468d6953e57a38b8ec00000000"/>
+		<Metadata name="InformationRegister.ЦеныНоменклатуры.Form.ФормаСписка.Form" id="e3a508d1-f983-4300-a0da-463f2b9f7429.0" configVersion="7fbb08e69129444bbc30120d6976946c00000000"/>
+		<Metadata name="Language.Русский" id="a4dc2e27-1cf9-4883-81d1-d3b1d19c21fc" configVersion="fc483e0f8c4d2b4da8bb2050dc56025100000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
